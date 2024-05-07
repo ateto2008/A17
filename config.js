@@ -21,10 +21,10 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["249928117462"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["249928117462"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["916297175943"];
-global.OwnerName = "مطور";
+global.Owner = ["249124702614"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["249124702614"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["249124702614"];
+global.OwnerName = "المـطور";
 global.BotName = "تيتو بوت";
 global.packname = "تيتو عمك";                             //Do not change.
 global.author = "By: bot awab teto👾";                               //Do not change.
@@ -37,20 +37,20 @@ global.sessionName = "session";                          //Do not change.
 
 
 //
-global.openAiAPI = "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";
+global.openAiAPI = "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";
 
 
 //
 global.location = "Tata City, India";
-global.reactmoji = "❤️";
-global.themeemoji = "💖";
-global.vidmenu = { url: 'i.imgur.com/ZXx69NG.jpg' };
-global.websitex = "https://github.com/Kai0071";
+global.reactmoji = "🧢";
+global.themeemoji = "👑";
+global.vidmenu = { url: 'https://telegra.ph/file/7361e8822f4c4d1737132.jpg' };
+global.websitex = "https://whatsapp.com/channel/0029VaZn6N059PwNW717Ww3Q";
 global.lolhuman = "KaysaS";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
+global.BotLogo = fs.readFileSync(".https://telegra.ph/file/7361e8822f4c4d1737132.jpg");
 global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
