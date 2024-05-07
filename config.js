@@ -50,7 +50,7 @@ global.lolhuman = "KaysaS";
 
 
 //
-global.BotLogo = fs.readFileSync(".https://telegra.ph/file/7361e8822f4c4d1737132.jpg");
+global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
 global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
